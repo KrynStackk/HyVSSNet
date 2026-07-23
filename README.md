@@ -11,4 +11,5 @@ The dataset can be downloaded on [Kaggle](https://www.kaggle.com/datasets/letruo
 
 If there is any error or need to be discussed, please email to [Truong-Thinh Le](https://github.com/KrynStackk) via [letruongthinh1712@gmail.com](mailto:letruongthinh1712@gmail.com).
 
+## Architecture
 ![Architecture of HyVSSNet](architecture.png)
